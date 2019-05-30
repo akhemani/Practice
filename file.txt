@@ -1,0 +1,1 @@
+A new random text in file.txt file for checking something.
